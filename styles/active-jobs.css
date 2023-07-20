@@ -1,0 +1,56 @@
+.active-job-second-heding {
+  color: #222222;
+  font-weight: 700;
+  margin: 0;
+  margin-top: 5px;
+}
+.active-job-third-heding {
+  color: #666666;
+  font-weight: 700;
+  margin: 0;
+  padding-top: 10px;
+}
+.active-job-forth-heding {
+  padding-left: 10px;
+  margin: 0;
+  color: #222222;
+}
+.active-job-counter-div {
+  background: radial-gradient(129.18% 129.18% at 101.9% -2.07%, #f5f5f5 0%, #1057ca 100%);
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-around;
+  border-radius: 7.5px;
+}
+
+.vertical-divider-div {
+  border-left: 3px solid #222222;
+  height: auto;
+}
+
+.vertical-divider-div-blue {
+  border-left: 3px solid #1057ca;
+  height: auto;
+}
+.active-job-card-other-details {
+  display: flex;
+  justify-content: left;
+}
+.active-job-card-other-details-content {
+  /* padding: 10px; */
+  margin: 0 10px;
+  color: #66666699;
+}
+
+.active-job-card-other-details-conteiner {
+  display: flex;
+  padding: 0;
+}
+
+.css-kq0b2b-MuiTabs-root:not(.MuiTabs-vertical) {
+  border-bottom: none !important;
+}
+
+.css-1fraa1g-MuiFormLabel-root-MuiInputLabel-root.Mui-focused {
+  color: #000000 !important;
+}

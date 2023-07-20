@@ -1,0 +1,18 @@
+.css-164t2j6-MuiListItem-root.active {
+  box-shadow: none !important;
+  background: inherit !important;
+}
+.css-164t2j6-MuiListItem-root.active:after {
+  content: '' !important;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 50px;
+  height: 4px;
+  background-color: #000 !important;
+  transform: translate(-50%, 0px);
+  border-radius: 10px;
+}
+.css-164t2j6-MuiListItem-root:hover {
+  background: none !important;
+}
